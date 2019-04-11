@@ -32,7 +32,7 @@ msgstr "បាញ់ M9"
 #: /Game/Resources/Localisation/ST_Hints.ST_Hints
 msgctxt "Hints,HintFlashlight"
 msgid "Toggle flashlight"
-msgstr "កំណាត់នៃពិល"
+msgstr "បិទបើកពិល"
 
 #. Key:	HintFlee
 #. SourceLocation:	/Game/Resources/Localisation/ST_Hints.ST_Hints
